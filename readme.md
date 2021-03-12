@@ -17,7 +17,7 @@ Steps to build a Docker image:
 1. Clone this repo
 
 ```
-git clone 
+git clone https://github.com/eceberker/cw_task.git
 ```
 
 2. In the project directory 
