@@ -133,22 +133,3 @@ If response success, it will return
 Otherwise, request will return Internal Server Error(500) and logs the cause.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# cw_task
-# cw_task
-# cw_task
