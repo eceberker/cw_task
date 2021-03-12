@@ -19,8 +19,9 @@ Steps to build a Docker image:
 ```
 git clone https://github.com/eceberker/cw_task.git
 ```
+2. copy gcp-cred.json file in the Drive link into ./gcp_clients directory 
 
-2. In the project directory 
+3. In the project directory 
 
 ```
 docker-compose build
