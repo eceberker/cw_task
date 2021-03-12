@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  app:
+    container_name: cw_task_api
+    build: .
+    env_file: 
+      - .env
+    networks:
+      - default
+    restart: always
+    ports:
+    - "8080:8080"
