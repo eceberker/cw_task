@@ -10,7 +10,7 @@ These instructions will cover usage information and for the Docker Container
 
 In order to run this container you'll need Docker installed on your machine.
 
-#### Installataion
+#### Installation
 
 Steps to build a Docker image:
 
