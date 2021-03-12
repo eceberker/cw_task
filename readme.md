@@ -37,7 +37,8 @@ docker-compose up
 
 ##  API Endpoints
 
-1. ```
+1. 
+```
 POST http://localhost:8080/logs
 ```
 Publishes the log in request body in GCP Pub/Sub service
