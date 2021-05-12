@@ -17,7 +17,7 @@ Steps to build a Docker image:
 1. Clone this repo
 
 ```
-git clone https://github.com/eceberker/cw_task.git
+git clone https://github.com/eceberker/gcp-data-pipeline.git
 ```
 2. copy gcp-cred.json file in the Drive link into ./gcp_clients directory 
 
